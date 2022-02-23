@@ -27,7 +27,7 @@ function NewMeetupPage() {
   return (
     <Fragment>
       <Head>
-        <title>Add a New Meetup</title>
+        <title>Adicionar novo evento</title>
         <meta
           name='description'
           content='Add your own meetups and create amazing networking opportunities.'
